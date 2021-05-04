@@ -1,0 +1,12 @@
+<div class="xPrevNextLink">
+  {{ with .PrevInSection }}
+    <div class="xPrevNextLink_prev">
+      <a href="{{ .Permalink }}" class="button right">{{ .LinkTitle }}</a>
+    </div>
+  {{ end }}
+  {{ with .NextInSection }}
+    <div class="xPrevNextLink_next">
+      <a href="{{ .Permalink }}" class="button left">{{ .LinkTitle }}</a>
+    </div>
+  {{ end }}
+</div>

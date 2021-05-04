@@ -1,0 +1,17 @@
+.xPrevNextLink
+  &::after
+    content: "";
+    clear: both;
+
+.xPrevNextLink_prev
+  display: block;
+  float: left;
+  &::before
+    content: "≪ Prev ";
+
+.xPrevNextLink_next
+  display: block;
+  float: right;
+  text-align: right;
+  &::after
+    content: " Next ≫";
