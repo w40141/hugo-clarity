@@ -20,7 +20,7 @@ other = "最近の投稿"
 other = "Lost"
 
 [could_not_find]
-other = "おさが探しのページは見当たりません"
+other = "探しのページは見当たりません"
 
 [go_back]
 other = "戻る"
@@ -50,4 +50,4 @@ other = "すべてのシリーズ"
 other = "Overview"
 
 [reading_time]
-other = "{{ .ReadingTime }} min read"
+other = "この記事は{{ .ReadingTime }} 分で読めます"
