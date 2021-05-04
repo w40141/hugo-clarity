@@ -1,5 +1,5 @@
 [read_more]
-other = "Read More"
+other = "READ MORE"
 
 [copyright]
 other = "Copyright"
@@ -35,7 +35,7 @@ other = "カテゴリー"
 other = "タグ"
 
 [series]
-other = "Series"
+other = "シリーズ"
 
 [all_categories]
 other = "すべてのカテゴリー"
@@ -44,7 +44,7 @@ other = "すべてのカテゴリー"
 other = "すべてのタグ"
 
 [all_series]
-other = "All Series"
+other = "すべてのシリーズ"
 
 [overview]
 other = "Overview"
